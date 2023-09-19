@@ -104,3 +104,20 @@
     background-color: rgb(10, 8, 3);
     box-shadow:3px 3px 3px 3px  rgb(92, 4, 130);
 }
+@media screen and (max-width: 576px) {
+  .container {
+    flex-wrap: wrap;
+  }
+  .container1 {
+    flex-wrap: wrap;
+  }
+  .container3 {
+    flex-wrap: wrap;
+  }
+  .home{
+    flex-wrap: wrap;
+  }
+}
+.home{
+  background-color: aliceblue;
+}
